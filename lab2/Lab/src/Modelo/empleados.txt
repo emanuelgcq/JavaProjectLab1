@@ -1,0 +1,5 @@
+nombre12, cedula12, apellido,telefono, direccion, fechanac, email, estatus
+nombre32, cedula32, apellido,telefono, direccion, fechanac, email, estatus
+nombre42, cedula42, apellido,telefono, direccion, fechanac, email, estatus
+nombre52, cedula52, apellido,telefono, direccion, fechanac, email, estatus
+nombre62, cedula62, apellido,telefono, direccion, fechanac, email, estatus
