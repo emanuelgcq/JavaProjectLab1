@@ -1,0 +1,31 @@
+Manolo,27209996,Trigueiros,04245552056,Urb La Concordia,05/02/2000, manolotrig@gmail.com,estatus
+Gabriel,27550223,Lafont, 04125896323,Calle 34 con carrera25, 08/03/1999,gabrielinho@gmail.com,estatus
+Deibys,27285225,Doku, 04146239988,Calle 54 con carrera 30,15/12/2000,deiboson@gmail.com,estatus
+Gregoria,9856321,Cordero, 04162008961,Calle 26 entre carrera 35,20/02/1972,gregocordero@gmail.com,estatus
+Carmen,10676522,Mendez, 04166543699,Urb La Concordia, 19/04/1975,mendezcarmen@gmail.com,estatus
+Sandra,15987644,Delgado, 04126987289,Calle 28 entre carrera 35,16/05/1982,sandradelga@gmail.com,estatus
+Maria,16256478,Delgado, 04246987213,Urb. Brisas del Obelisco,20/08/1982,mariagado@gmail.com,estatus
+Andres,28127989,Espinosa,04263598743,Barrio La Peña,10/04/2001,espinosandres@gmail.com,estatus
+Micaela,27285225,Ramirez,04246541233,Urb. Brisas del Obelisco,10/12/2000,micaelaramirz@gmail.com,estatus
+Fabiona,26374602,Colmenarez,04120412778,Calle 24 entre 32,15/06/1999,fabicolmenarez@gmail.com,estatus
+Robert,27614875,Perez,04243541223,Duaca,09/12/2000,robbertp@gmail.com,estatus
+Ramon,25687141,Querales,04128746533,Rastrojito,18/11/1998,ramonqueso@gmail.com,estatus
+Patricia,276894475,Perez,04145041231,El Trompillo,29/11/2000,pzpatricia@gmail.com,estatus
+Roberto,27614875,Zambrano,04143535695,Barrio Lomas Verdes, 09/12/2000,robertoz@gmail.com,estatus
+Ignacio,16789422,Chaparro,04246549936,Sector El Cuji,09/12/2000,inganciochaparrp@gmail.com,estatus
+Emilio,24976187,Rojo,04129765884,Barrio Lomas Verdes,10/02/1995,rojoemilio@gmail.com,estatus
+Carlos,15987356,Quevedo,04269875250,Via El Trompillo,03/08/1978,robbertp@gmail.com,estatus
+Marlene,18965477,Crespo,042452584522,Barrio Lomas Verdes,09/04/1986,robbertp@gmail.com,estatus
+Rigoberto,282546336,Hernandez,04120549372,Calle 13 entre carrera 23,28/12/2001,rigohernan@gmail.com,estatus
+Hugo,22784533,Salsedo,04245105885,Ruezga Norte, 28/03/1992,rigohernan@gmail.com,estatus
+Julio,25897463,Torres,04245338315,Barrio Lomas Verdes,28/11/1995,rigohernan@gmail.com,estatus
+Miguelina,11452366,Timaure,04125896336,San Jacinto,29/08/1975,rigohernan@gmail.com,estatus
+Josefina,10589697,Arangure,04246986312,El Jebe,07/10/1973, josefarangure@gmail.com,estatus
+Gladys,13578497,Gil,04147215787,Barrio Lomas Verdes,08/09/1976,gilgladys@gmail.com,estatus
+Ana,18564755,Pedra,04269596121,Duaca,28/12/1989,anapedra@gmail.com,estatus
+Evelin,26216784,Garcia,04125406998,Calle 12 entre carrera 24,01/12/1998,evelingarcia@gmail.com,estatus
+Jose,20585698,Miquelena,04247891231,Ruezga Sur, 15/01/1988,miqueljose@gmail.com,estatus
+Andy,11579363,Castillo,04266541233,Calle 13 entre carrera 28,18/02/1970,andycastillo@gmail.com,estatus
+Ismeli,29876411,Milano,04129871213,Barrio Lomas Verdes,14/06/2001,ismelmila@gmail.com,estatus
+Angel,27698422,Piña,04246296874,Ruezga Norte,12/08/2000,angelpiaa@gmail.com,estatus
+Manolo,28225669,Ramirez,04245552266,El pedregal,02/12/1999,manuellm@gmail.com,estatus

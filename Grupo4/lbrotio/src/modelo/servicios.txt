@@ -1,0 +1,10 @@
+0111,Consulta Medica General,1,2200
+0221,Examen RX,2,1000
+0325,Cesta de comida,3,4000
+0429,Gasas,3,100
+0553,Consulta Odontologica,1,3000
+0687,Consulta De Cardiologia,1,4000
+0796,Tomografia,2,2500
+0845,Analisis de Sangre,2,500
+0987,Inyectadoras y Guantes,3,250
+0996,Agua Potable,3,400

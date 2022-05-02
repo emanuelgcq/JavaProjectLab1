@@ -1,0 +1,10 @@
+Magda,18975323,Gil,04148522528,Calle 22 entre 30,24/08/1984,magdagil@gmail.com,estatus
+Emily,25787652,Parra,04127870414,Calle 26 entre carrera 36,18/07/1998, emiparra@gmail.com,estatus
+Sebastina,26125453,Gimenez, 04244541518,San Jose,19/01/1998,sebasgimenez@gmail.com,estatus
+Karla,12698080,Lopez,04149863321, Los Crepusculos,20/12/1976,karlalopz@gmail.com,estatus
+Jesus,24956241,Alvarado,04125208954, Los Naranjillos,13/05/1996,jesusalvarado@gmail.com,estatus
+Juan,27896125,Lopez, 04126975422,Urb Los Crepusculos,02/08/2000,lpzjuan@gmail.com,estatus
+Alexis,27412078,Mendoza, 04247275253,San Jose, 23/09/2000,aleximendoza@gmail.com,estatus
+Javier,25413562,Mollejas, 04242655653,San Jacinto,08/05/1995,javiermoll@gmail.com,estatus
+Alex,13897245,Gonzalez, 0414758353, El Cuji,12/03/1975,alexgonzalez@gmail.com,estatus
+Adolfo,24786324,Escalona, 04249568543, Urb La Concordia,07/09/1994,adolfona@gmail.com,estatus
